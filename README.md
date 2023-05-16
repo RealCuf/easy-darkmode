@@ -22,7 +22,7 @@
 
 
 <!-- Screenshots -->
-### :camera: | Screenshots
+### 🖼 | Screenshots
 
 <br>
 
