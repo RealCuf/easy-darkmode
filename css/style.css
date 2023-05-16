@@ -1,0 +1,27 @@
+html,body {
+  height: 99%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+main {
+  text-align: center;
+}
+
+:root {
+  --text-color: #43e412;
+  --bg-color: #000000;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --text-color: #d63232;
+    --bg-color: #ffffff;
+  }
+}
+
+body {
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
