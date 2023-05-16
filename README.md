@@ -18,20 +18,20 @@
 <hr>
 
 <!-- About the Project -->
-## :star2: About the Project
+## :fire: About the Project
 
 
 <!-- Screenshots -->
-### Screenshots
+### :camera: | Screenshots
+
+<br>
 
 <div align="center"> 
   <img src="https://s6.uplod.ir/i/01093/p5oxh28z8r2u.jpg" alt="screenshot" width="700" height="auto"/>
 </div>
 
-<hr>
-
 <!-- Color Reference -->
-### :art: Color Reference
+## :art: | Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -39,8 +39,8 @@
 | Text Color | ![#d63232](https://via.placeholder.com/10/d63232?text=+) #d63232 |
 
 <!-- Contact -->
-## :handshake: Contact
+## :handshake: | Contact
 
 Cuf - [Discord](http://discordapp.com/users/767770096319201290) - Cuf#5566
 
-Project Link : [https://github.com/RealCuf/easy-darkmode](https://github.com/RealCuf/easy-darkmode)
+Project Link : [https://github.com/RealCuf/Easy-Darkmode](https://github.com/RealCuf/easy-darkmode)
